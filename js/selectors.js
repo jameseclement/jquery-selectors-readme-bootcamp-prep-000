@@ -9,4 +9,5 @@ function lastImageSelector(){
   return lastImage
 }
 
-function 
+function ninjaBabySelector(){ 
+  var ninjaBaby = $
