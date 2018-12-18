@@ -2,5 +2,4 @@
 function paragraphSelector(){
 var pTags = $('p')
 return pTags
-
 }
